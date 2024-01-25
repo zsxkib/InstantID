@@ -163,6 +163,10 @@ checkpoints/
 models/
 
 # Cog
-.cog
-
-gradio_cached_examples
+.cog/
+checkpoints/
+models/
+_download_files.py
+_show_filesizes.py
+*.tar
+.vscode
