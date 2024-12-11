@@ -27,6 +27,7 @@ build:
     - "peft==0.8.2"
     - "transformers==4.37.0"
     - "controlnet-aux==0.0.7"
+    - "huggingface_hub==0.25.2"
     
     # fix for pydantic issues in cog
     # https://github.com/replicate/cog/issues/1623
